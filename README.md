@@ -5,26 +5,22 @@ Vengo de más de 10 años de experiencia profesional en entornos de empresa, con
 
 
 ## Tecnologías
-- Sistemas\
+- <b>Sistemas</b>\
 Linux · Windows Server · Bash
-- Redes\
+- <b>Redes</b>\
 Cisco CCNA
-- Cloud\
+- <b>Cloud</b>\
 Microsoft Azure
-- Desarrollo\
+- <b>Desarrollo</b>\
 HTML · CSS · JavaScript · PHP · SQL
-- Aprendiendo ahora (objetivo DevOps)\
-Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python
+- <b>Aprendiendo ahora (objetivo DevOps)</b>\
+Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible
 
 
 ## En que estoy centrado ahora mismo:
-- Construyendo mi futuro como DevOps.
-- Mi base:
-Administración Linux y Windows\
-Administración Redes (CCNA)\
-Mejora de procesos con IA\
-Cloud Azure\
+- Asentando todos los conocimientos de redes, sistemas y desarrollo para poder construir mi perfíl entorno a DevOps
 - Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
+- Tomando cursos y documentación sobre IA
 
 
 ## Certificaciones y formación
