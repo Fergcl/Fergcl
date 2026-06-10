@@ -23,7 +23,7 @@ Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código
 - Tomando cursos y documentación sobre IA
 
 
-## Certificaciones y formación
+## Certificaciones y formación TIC
 - Microsoft Certified: Azure Fundamentals (AZ-900) (100h · Tajamar) -> https://www.credly.com/badges/0158eb68-2516-49c7-a6ca-70ef871478e0/public_url
 - Cisco CCNA v7 (500h · Tajamar) -> https://www.credly.com/badges/1b772023-4a6b-4ab7-82e7-1e8b26d0cbe5/public_url
 - Google IT Support Professional Certificate (Coursera) -> https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8
