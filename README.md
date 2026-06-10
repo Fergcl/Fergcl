@@ -17,7 +17,7 @@ HTML · CSS · JavaScript · PHP · SQL
 Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible
 
 
-## En que estoy centrado ahora mismo:
+## En que estoy centrado ahora mismo
 - Asentando todos los conocimientos de redes, sistemas y desarrollo para poder construir mi perfíl entorno a DevOps
 - Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 - Tomando cursos y documentación sobre IA
