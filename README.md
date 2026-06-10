@@ -24,13 +24,14 @@ Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código
 - Tomando cursos y documentación sobre IA
 
 
-## Certificaciones y formación TIC
-- Microsoft Certified: Azure Fundamentals (AZ-900) (100h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/0158eb68-2516-49c7-a6ca-70ef871478e0/public_url)
-- Cisco CCNA v7 (500h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/1b772023-4a6b-4ab7-82e7-1e8b26d0cbe5/public_url)
-- Google IT Support Professional Certificate (Coursera) -> [Ver credencial](https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8)
-- LPIC-1 — Administración de Sistemas Linux (100 h · CFTIC Getafe — CRN en TIC )
+## Certificaciones y formación TI
+- ☁️ <b>Microsoft Certified: Azure Fundamentals AZ-900</b> (100h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/0158eb68-2516-49c7-a6ca-70ef871478e0/public_url)
+- 🌐 <b>Cisco CCNA v7</b> (500h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/1b772023-4a6b-4ab7-82e7-1e8b26d0cbe5/public_url)
+- 🖥️ <b>Google IT Support Professional Certificate</b> (Coursera) -> [Ver credencial](https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8)
+- 🐧 <b>LPIC-1 — Administración de Sistemas Linux</b> (100 h · CFTIC Getafe — CRN en TIC )
 
 
 ## Contacto
-- LinkedIn: [Fernando García del Castillo López](https://www.linkedin.com/in/fernandogarciadelcastillolopez/)
-- Email: Fernandogcl94@gmail.com
+- <b>LinkedIn</b>: [Fernando García del Castillo López](https://www.linkedin.com/in/fernandogarciadelcastillolopez/)
+- <b>Email</b>: Fernandogcl94@gmail.com
+
