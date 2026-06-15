@@ -32,6 +32,7 @@ Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código
 - 🌐 <b>Cisco CCNA v7</b> (500h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/1b772023-4a6b-4ab7-82e7-1e8b26d0cbe5/public_url)
 - 🖥️ <b>Google IT Support Professional Certificate</b> (Coursera) -> [Ver credencial](https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8)
 - 🤖 <b>Claude 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/u4inczw2p4x5)
+- 🤖 <b>Claude Code 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/cuvnii7qeedp)
 
 
 ## Contacto
