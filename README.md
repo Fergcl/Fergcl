@@ -15,7 +15,7 @@ Microsoft Azure
 - <b>Desarrollo</b>\
 HTML · CSS · JavaScript · PHP · SQL
 - IA\
-Claude 101
+Claude
 - <b>Aprendiendo ahora (objetivo DevOps)</b>\
 Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible
 
@@ -33,6 +33,7 @@ Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código
 - 🖥️ <b>Google IT Support Professional Certificate</b> (Coursera) -> [Ver credencial](https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8)
 - 🤖 <b>Claude 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/u4inczw2p4x5)
 - 🤖 <b>Claude Code 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/cuvnii7qeedp)
+- 🤖 <b>Claude Code in Action - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/phq9zouhxbxv)
 
 
 ## Contacto
