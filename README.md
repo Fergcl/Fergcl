@@ -15,7 +15,7 @@ Microsoft Azure
 - <b>Desarrollo</b>\
 HTML · CSS · JavaScript · PHP · SQL
 - IA\
-Claude
+Claude · OpenClaw
 - <b>Aprendiendo ahora (objetivo DevOps)</b>\
 Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible
 
