@@ -36,8 +36,9 @@ Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código
 - 🤖 <b>Claude Code in Action - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/phq9zouhxbxv)
 
 ## Mis Proyectos Principales
-- **[DAW orientado al trabajo](https://github.com/Fergcl/OpenClaw-Docker-Nvidia)** -> Ejercicios DAW orientados al día a día de una empresa
-- **[OpenClaw - Docker](https://github.com/Fergcl/DAW)** -> Despliegue de OpenClaw en Docker con API NVIDIA (coste 0€)
+- **[OpenClaw en Docker con NVIDIA](https://github.com/Fergcl/OpenClaw-Docker-Nvidia)** → Asistente de IA autoalojado con OpenClaw, Docker y la API de NVIDIA (coste 0€). Incluye un [manual completo de instalación y administración](https://github.com/Fergcl/OpenClaw-Docker-Nvidia/blob/main/docs/OpenClaw-Manual-Fernando_Garcia_del_Castillo_Lopez.pdf).
+- **[DAW orientado al trabajo](https://github.com/Fergcl/DAW)** → Ejercicios de DAW orientados al día a día de una empresa.
+- **[Quasar Music](https://quasarmusik.github.io)** ([código](https://github.com/quasarmusik/quasarmusik.github.io)) → Página web de nuestro estudio de música, con CTA. Desarrollada con ayuda de IA.
 
 ## Contacto
 - <b>LinkedIn</b>: [Fernando García del Castillo López](https://www.linkedin.com/in/fernandogarciadelcastillolopez/)
