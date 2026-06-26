@@ -13,10 +13,10 @@ Cisco CCNA
 - <b>Cloud</b>\
 Microsoft Azure
 - <b>Desarrollo</b>\
-HTML · CSS · JavaScript · PHP · SQL
+HTML · CSS · JavaScript · PHP · SQL · C# · Java
 - IA\
 Claude · OpenClaw
-- <b>Aprendiendo ahora (objetivo DevOps)</b>\
+- <b>Aprendiendo ahora</b>\
 Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible
 
 
@@ -35,6 +35,9 @@ Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código
 - 🤖 <b>Claude Code 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/cuvnii7qeedp)
 - 🤖 <b>Claude Code in Action - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/phq9zouhxbxv)
 
+## Mis Proyectos Principales
+- **[DAW orientado al trabajo](https://github.com/Fergcl/OpenClaw-Docker-Nvidia)** -> Ejercicios DAW orientados al día a día de una empresa
+- **[OpenClaw - Docker](https://github.com/Fergcl/DAW)** -> Despliegue de OpenClaw en Docker con API NVIDIA (coste 0€)
 
 ## Contacto
 - <b>LinkedIn</b>: [Fernando García del Castillo López](https://www.linkedin.com/in/fernandogarciadelcastillolopez/)
