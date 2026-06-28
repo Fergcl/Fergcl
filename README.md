@@ -1,8 +1,10 @@
 ## Hola, soy Fernando 👋
 
-Estoy reorientando mi carrera hacia DevOps, sobre una base sólida de sistemas Linux, redes (Cisco CCNA) y cloud (Microsoft Azure), y con formación en desarrollo web (DAW).\
-\
-Vengo de más de 10 años de experiencia profesional en entornos de empresa, con foco reciente en la automatización de procesos y la mejora de flujos de trabajo. Ahora estoy uniendo ese bagaje con la cadena de herramientas DevOps para dedicarme a automatizar despliegues e infraestructura.
+Estoy reorientando mi carrera hacia DevOps, sobre una base sólida de sistemas Linux, redes (Cisco CCNA) y cloud (Microsoft Azure), y con formación en desarrollo web (DAW).
+
+Vengo de más de 10 años de experiencia profesional en entornos de empresa, con foco reciente en la automatización de procesos y la mejora de flujos de trabajo. Ahora estoy uniendo ese bagaje con las herramientas y filosofia de DevOps.
+
+Quiero empezar a desarrollarme profesionalmente en el mundo de IT.
 
 
 ## Tecnologías
