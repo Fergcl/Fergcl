@@ -19,7 +19,7 @@ HTML · CSS · JavaScript · PHP · SQL · C# · Java
 - IA\
 Claude · OpenClaw
 - <b>Aprendiendo ahora</b>\
-Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible
+Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible · IBM DevOps and Software Engineering
 
 
 ## En que estoy centrado ahora mismo
