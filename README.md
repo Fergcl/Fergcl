@@ -1,6 +1,6 @@
 ## Hola, soy Fernando 👋
 
-Estoy reorientando mi carrera hacia DevOps, sobre una base sólida de sistemas Linux, redes (Cisco CCNA) y cloud (Microsoft Azure), y con formación en desarrollo web (DAW).
+Estoy reorientando mi carrera hacia IT, sobre una base sólida en formación de desarrollo Web (DAW, sistemas Linux y Windows y redes (Cisco CCNA).
 
 Vengo de más de 10 años de experiencia profesional en entornos de empresa, en los que he desarrollado Soft Skills como trabajo en equipo, colaboración entre departamentos, resolución de problemas, adaptabilidad al cambio y otras más,
 
