@@ -2,24 +2,24 @@
 
 Estoy reorientando mi carrera hacia DevOps, sobre una base sólida de sistemas Linux, redes (Cisco CCNA) y cloud (Microsoft Azure), y con formación en desarrollo web (DAW).
 
-Vengo de más de 10 años de experiencia profesional en entornos de empresa, con foco reciente en la automatización de procesos y la mejora de flujos de trabajo. Ahora estoy uniendo ese bagaje con las herramientas y filosofia de DevOps.
+Vengo de más de 10 años de experiencia profesional en entornos de empresa, en los que he desarrollado Soft Skills como trabajo en equipo, colaboración entre departamentos, resolución de problemas, adaptabilidad al cambio y otras más,
 
-Quiero empezar a desarrollarme profesionalmente en el mundo de IT.
+Busco mi primera oportunidad como desarrollador, con muchas ganas de aprender y aportar.
 
 
 ## Tecnologías
+- <b>Desarrollo</b>\
+HTML · CSS · JavaScript · PHP · SQL · C# · Java · Git/GitHub
 - <b>Sistemas</b>\
 Linux · Windows Server · Bash
 - <b>Redes</b>\
 Cisco CCNA
 - <b>Cloud</b>\
 Microsoft Azure
-- <b>Desarrollo</b>\
-HTML · CSS · JavaScript · PHP · SQL · C# · Java
 - IA\
 Claude · OpenClaw
 - <b>Aprendiendo ahora</b>\
-Git / GitHub · Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible · IBM DevOps and Software Engineering
+Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible · IBM DevOps and Software Engineering
 
 
 ## En que estoy centrado ahora mismo
