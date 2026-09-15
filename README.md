@@ -39,7 +39,6 @@ Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · 
 
 ## Mis Proyectos Principales
 - **[OpenClaw en Docker con NVIDIA](https://github.com/Fergcl/OpenClaw-Docker-Nvidia)** → Asistente de IA autoalojado con OpenClaw, Docker y la API de NVIDIA (coste 0€). Incluye un [manual completo de instalación y administración](https://github.com/Fergcl/OpenClaw-Docker-Nvidia/blob/main/docs/OpenClaw-Manual-Fernando_Garcia_del_Castillo_Lopez.pdf).
-- **[DAW orientado al trabajo](https://github.com/Fergcl/DAW)** → Ejercicios de DAW orientados al día a día de una empresa.
 - **[Quasar Music](https://quasarmusik.github.io)** ([código](https://github.com/quasarmusik/quasarmusik.github.io)) → Página web de nuestro estudio de música, con CTA. Desarrollada con ayuda de IA.
 
 ## Contacto
