@@ -23,11 +23,8 @@ Cisco CCNA
 Microsoft Azure
 - IA\
 Claude · OpenClaw
-- <b>Aprendiendo ahora</b>\
-Docker · CI/CD (GitHub Actions) · Full Stack con C#
 
-
-## En que estoy centrado ahora mismo
+## En qué estoy centrado ahora mismo
 - Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
 - Realizando un curso Full Stack con C# en Tajamar.
 - Tomando cursos y documentación sobre IA.
