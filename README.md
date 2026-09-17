@@ -1,11 +1,16 @@
 ## Hola, soy Fernando 👋
 
-Estoy reorientando mi carrera hacia IT, sobre una base sólida en formación de desarrollo Web (DAW, sistemas Linux y Windows y redes (Cisco CCNA).
+Desarrollador web junior en formación (DAW + Full Stack C# y .NET en Tajamar), con base en sistemas Linux, redes Cisco y Microsoft Azure.
 
-Vengo de más de ocho años de experiencia profesional en entornos de empresa, en los que he desarrollado Soft Skills como trabajo en equipo, colaboración entre departamentos, resolución de problemas, adaptabilidad al cambio y otras más,
+Antes de dar el salto a IT trabajé más de siete años en empresas digitales del sector automoción, donde empecé a resolver problemas con tecnología:
 
-Busco mi primera oportunidad como desarrollador, con muchas ganas de aprender y aportar.
+- ⚙️ Automaticé la captación de leads de compra y generé informes y scripts con IA (Clidrive).
+- 🧩 Diseñé desde cero el proceso de un nuevo canal de negocio C2C, con reportes y mejora continua.
+- 📊 Gestioné más de 200 tramitaciones diarias en plataformas como Siebel y GT Estimate (Euromaster).
 
+Me gusta construir cosas que se usan de verdad: una app Android para tablets, un asistente de IA autoalojado con Docker y la web de un estudio de música.
+
+🎯 Busco prácticas (FCT) o mi primer puesto junior en desarrollo web, sistemas o DevOps.
 
 ## Tecnologías
 - <b>Desarrollo</b>\
