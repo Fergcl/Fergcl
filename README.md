@@ -1,6 +1,6 @@
 ## Hola, soy Fernando 👋
 
-Desarrollador web junior en formación (DAW + Full Stack C# y .NET en Tajamar), con base en sistemas Linux, redes Cisco y Microsoft Azure.
+Junior Web Developer · DAW · C#/.NET · Linux · Azure
 
 Antes de dar el salto a IT trabajé más de siete años en empresas digitales del sector automoción, donde empecé a resolver problemas con tecnología:
 
@@ -24,13 +24,13 @@ Microsoft Azure
 - IA\
 Claude · OpenClaw
 - <b>Aprendiendo ahora</b>\
-Docker · CI/CD (GitHub Actions) · Infraestructura como código (Terraform) · Python · Ansible · IBM DevOps and Software Engineering
+Docker · CI/CD (GitHub Actions) · Full Stack con C#
 
 
 ## En que estoy centrado ahora mismo
-- Asentando todos los conocimientos de redes, sistemas y desarrollo para poder construir mi perfíl en torno a DevOps
 - Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
-- Tomando cursos y documentación sobre IA
+- Realizando un curso Full Stack con C# en Tajamar.
+- Tomando cursos y documentación sobre IA.
 
 
 ## Certificaciones y formación TI
