@@ -25,7 +25,7 @@ Microsoft Azure
 Claude · OpenClaw
 
 ## En qué estoy centrado ahora mismo
-- Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW).
+- Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW). En búsqueda de prácticas.
 - Realizando un curso Full Stack con C# en Tajamar.
 - Tomando cursos y documentación sobre IA.
 
