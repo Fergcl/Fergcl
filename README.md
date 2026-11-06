@@ -1,6 +1,6 @@
 ## Hola, soy Fernando 👋
 
-Junior Web Developer · DAW · C#/.NET · Linux · Azure
+Junior Web Developer · DAW · C#/.NET · Linux · Azure · CCNA
 
 Antes de dar el salto a IT trabajé más de siete años en empresas digitales del sector automoción, donde empecé a resolver problemas con tecnología:
 
