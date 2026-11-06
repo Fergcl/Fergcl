@@ -22,7 +22,7 @@ Cisco CCNA
 - <b>Cloud</b>\
 Microsoft Azure
 - IA\
-Claude · OpenClaw
+Claude Code · OpenClaw
 
 ## En qué estoy centrado ahora mismo
 - Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW). En búsqueda de prácticas.
