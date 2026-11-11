@@ -1,12 +1,12 @@
 ## Hola, soy Fernando
 
-Junior Web Developer · DAW · C#/.NET · Linux · Azure · CCNA
+__Junior Web Developer · DAW · C#/.NET · Linux · Azure · CCNA__
 
-Antes de dar el salto a IT trabajé más de siete años en empresas digitales del sector automoción, donde empecé a resolver problemas con tecnología:
+Antes de dar el salto a IT trabajé __más de siete años en empresas digitales del sector automoción__, donde empecé a resolver problemas con tecnología:
 
-- Automaticé la captación de leads de compra y generé informes y scripts con IA (Clidrive).
-- Diseñé desde cero el proceso de un nuevo canal de negocio C2C, con reportes y mejora continua.
-- Gestioné más de 200 tramitaciones diarias en plataformas como Siebel y GT Estimate (Euromaster).
+- __Automaticé__ la captación de leads de compra y generé informes y scripts __con IA__ (Clidrive).
+- __Diseñé desde cero el proceso de un nuevo canal de negocio__ C2C, con reportes y mejora continua.
+- Gestioné __más de 200 tramitaciones diarias__ en plataformas como Siebel y GT Estimate (Euromaster).
 
 Me gusta construir cosas que se usan de verdad: una app Android para tablets, un asistente de IA autoalojado con Docker y la web de un estudio de música.
 
