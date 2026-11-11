@@ -14,15 +14,31 @@ Busco prácticas (FCT) o mi primer puesto junior en desarrollo web, sistemas o D
 
 ## Tecnologías
 - <b>Desarrollo</b>\
-HTML · CSS · JavaScript · PHP · SQL · C# · Java · Git/GitHub
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 - <b>Sistemas</b>\
-Linux · Windows Server · Bash
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Powershell](https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 - <b>Redes</b>\
-Cisco CCNA
+![Cisco CCNA](https://img.shields.io/badge/Cisco%20CCNA-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
 - <b>Cloud</b>\
-Microsoft Azure
+![Microsoft Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 - IA\
-Claude Code · OpenClaw
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-E8452C?style=for-the-badge&logoColor=white)
+
 
 ## En qué estoy centrado ahora mismo
 - Finalizando el Grado Superior en Desarrollo de Aplicaciones Web (DAW). En búsqueda de prácticas.
@@ -45,6 +61,6 @@ Claude Code · OpenClaw
 - **[Trazo](https://github.com/Fergcl/Trazo)** App de notas para Android 11+ en Kotlin, con rechazo de palma por software para lápices pasivos y diagnóstico táctil. (Vibe Coding)
 
 ## Contacto
-- <b>LinkedIn</b>: [Fernando García del Castillo López](https://www.linkedin.com/in/fernandogarciadelcastillolopez/)
-- <b>Email</b>: Fernandogcl94@gmail.com
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandogarciadelcastillolopez/)\
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fernandogcl94@gmail.com)
 
