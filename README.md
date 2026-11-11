@@ -1,16 +1,16 @@
-## Hola, soy Fernando 👋
+## Hola, soy Fernando
 
 Junior Web Developer · DAW · C#/.NET · Linux · Azure · CCNA
 
 Antes de dar el salto a IT trabajé más de siete años en empresas digitales del sector automoción, donde empecé a resolver problemas con tecnología:
 
-- ⚙️ Automaticé la captación de leads de compra y generé informes y scripts con IA (Clidrive).
-- 🧩 Diseñé desde cero el proceso de un nuevo canal de negocio C2C, con reportes y mejora continua.
-- 📊 Gestioné más de 200 tramitaciones diarias en plataformas como Siebel y GT Estimate (Euromaster).
+- Automaticé la captación de leads de compra y generé informes y scripts con IA (Clidrive).
+- Diseñé desde cero el proceso de un nuevo canal de negocio C2C, con reportes y mejora continua.
+- Gestioné más de 200 tramitaciones diarias en plataformas como Siebel y GT Estimate (Euromaster).
 
 Me gusta construir cosas que se usan de verdad: una app Android para tablets, un asistente de IA autoalojado con Docker y la web de un estudio de música.
 
-🎯 Busco prácticas (FCT) o mi primer puesto junior en desarrollo web, sistemas o DevOps.
+Busco prácticas (FCT) o mi primer puesto junior en desarrollo web, sistemas o DevOps.
 
 ## Tecnologías
 - <b>Desarrollo</b>\
@@ -31,13 +31,13 @@ Claude Code · OpenClaw
 
 
 ## Certificaciones y formación TI
-- 🐧 <b>LPIC-1 — Administración de Sistemas Linux</b> (100 h · CFTIC Getafe — CRN en TIC)
-- ☁️ <b>Microsoft Certified: Azure Fundamentals AZ-900</b> (100h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/0158eb68-2516-49c7-a6ca-70ef871478e0/public_url)
-- 🌐 <b>Cisco CCNA v7</b> (500h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/1b772023-4a6b-4ab7-82e7-1e8b26d0cbe5/public_url)
-- 🖥️ <b>Google IT Support Professional Certificate</b> (Coursera) -> [Ver credencial](https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8)
-- 🤖 <b>Claude 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/u4inczw2p4x5)
-- 🤖 <b>Claude Code 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/cuvnii7qeedp)
-- 🤖 <b>Claude Code in Action - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/phq9zouhxbxv)
+- <b>LPIC-1 — Administración de Sistemas Linux</b> (100 h · CFTIC Getafe — CRN en TIC)
+- <b>Microsoft Certified: Azure Fundamentals AZ-900</b> (100h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/0158eb68-2516-49c7-a6ca-70ef871478e0/public_url)
+- <b>Cisco CCNA v7</b> (500h · Tajamar) -> [Ver credencial](https://www.credly.com/badges/1b772023-4a6b-4ab7-82e7-1e8b26d0cbe5/public_url)
+- <b>Google IT Support Professional Certificate</b> (Coursera) -> [Ver credencial](https://coursera.org/share/6d4cf1182103a201740a9f27a12e7cd8)
+- <b>Claude 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/u4inczw2p4x5)
+- <b>Claude Code 101 - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/cuvnii7qeedp)
+- <b>Claude Code in Action - Anthropic Academy</b> Anthropic -> [Ver credencial](https://verify.skilljar.com/c/phq9zouhxbxv)
 
 ## Mis Proyectos Principales
 - **[OpenClaw en Docker con NVIDIA](https://github.com/Fergcl/OpenClaw-Docker-Nvidia)** → Asistente de IA autoalojado con OpenClaw, Docker y la API de NVIDIA (coste 0€). Incluye un [manual completo de instalación y administración](https://github.com/Fergcl/OpenClaw-Docker-Nvidia/blob/main/docs/OpenClaw-Manual-Fernando_Garcia_del_Castillo_Lopez.pdf).
